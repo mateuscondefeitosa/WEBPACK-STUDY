@@ -1,0 +1,23 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateuscondefeitosa/WEBPACK-STUDY.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateuscondefeitosa/WEBPACK-STUDY/issues"
+  },
+  "homepage": "https://github.com/mateuscondefeitosa/WEBPACK-STUDY#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
